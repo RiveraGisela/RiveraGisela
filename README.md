@@ -10,11 +10,11 @@
 </head>
 <body>
     <header>
-        <h1>Mi Perfil de GitHub</h1>
+        <h1>Bienvenido a mi perfil de GitHub</h1>
     </header>
     <section id="about">
         <h2>Acerca de mí</h2>
-        <p>Soy un estudiante de Análisis y Desarrollo de Software apasionado por la programación...</p>
+        <p>Soy estudiante de Análisis y Desarrollo de Software apasionado por la programación, en busca constante de conocimiento, buscando soluciones a los retos que se me impongan. </p>
     </section>
     <section id="experience">
         <h2>Experiencia</h2>
